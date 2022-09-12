@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In ♥️ with all things data. Experienced in data engineering, business analysis and project management. 
+In ♥️ with all things data. Background in data engineering, business analysis and project management. 
 
 Alumna of Vector Institute Monthers and Machine Learning program. My capstone projects is at https://github.com/olga-terekhova/weather-co2.
 
