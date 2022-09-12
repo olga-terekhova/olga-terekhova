@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In ♥️ with all things data. [Background](https://www.linkedin.com/in/olga-terekhova/) in data engineering, business analysis and project management. 
+In ♥️ with all things data. [Background](https://www.linkedin.com/in/olga-terekhova/) in data engineering, business analysis and project management. SQL and Python are my 🍴.
 
 I live in 🍁. Currently waiting for my Canadian citizenship, got bored of checking the citizenship application tracker every day! Now scripting this mundane activity at https://github.com/olga-terekhova/check-citizenship.
 
