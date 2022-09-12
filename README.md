@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 In ♥️ with all things data. [Background](https://www.linkedin.com/in/olga-terekhova/) in data engineering, business analysis and project management. 
 
-Alumna of [Vector Institute](https://vectorinstitute.ai/) [Mothers and Machine Learning program](https://vectorinstitute.ai/mothers-and-machine-learning/). My capstone projects is at https://github.com/olga-terekhova/weather-co2.
+I live in 🍁. I'm waiting for my Canadian citizenship and I got bored of checking the citizenship application tracker everyday! Now scripting this mundane activity at https://github.com/olga-terekhova/check-citizenship.
 
-I live in 🇨🇦. I'm waiting for my Canadian citizenship and I got bored of checking the citizenship application tracker everyday! Now scripting this mundane activity at https://github.com/olga-terekhova/check-citizenship.
+My city is Toronto. One of the advantages of living here is having a lot of physicians and specialist doctors. See for yourself at https://github.com/olga-terekhova/physicians-availability. 
 
-My city is Toronto. One of the advantages of living here is having a lot of physicians and specialist doctors. Check it at https://github.com/olga-terekhova/physicians-availability. 
+I'm a huge believer in urban life. I want our cities to be smart and convenient, our buildings to be safe and functional. In my capstone project for [Vector Institute](https://vectorinstitute.ai/) [Mothers and Machine Learning program](https://vectorinstitute.ai/mothers-and-machine-learning/) I used ML algorithms to understand the impact of various factors on indoor CO2 levels. Check it at https://github.com/olga-terekhova/weather-co2.
