@@ -21,7 +21,7 @@ In ♥️ with all things data
 
 🍴 SQL and Python for work and for life
 
-- I live in 🍁. Currently waiting for my Canadian citizenship, got bored of checking the citizenship application tracker every day! Now scripting this mundane activity at https://github.com/olga-terekhova/check-citizenship.
+- I live in 🍁. Recently got my Canadian citizenship. I got bored of checking the citizenship application tracker every day! Now scripting this mundane activity at https://github.com/olga-terekhova/check-citizenship.
 
 - My city is Toronto. One of the advantages of living here is having a lot of physicians and specialist doctors. See for yourself at https://github.com/olga-terekhova/physicians-availability. 
 
