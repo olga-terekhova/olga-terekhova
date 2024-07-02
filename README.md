@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 In ♥️ with all things data
 
-[Background](https://www.linkedin.com/in/olga-terekhova/) in data engineering, business analysis and project management
+[Background experience](https://www.linkedin.com/in/olga-terekhova/) in data engineering, business analysis and project management
 
 ⚒️ SQL and Python for work and for life 🍴
 
