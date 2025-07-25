@@ -31,6 +31,6 @@ In ♥️ with all things data
   - automating the [creation of printables](https://github.com/olga-terekhova/vba)  
   - figuring out how to automatically [generate the weird TDSB school calendar](https://github.com/olga-terekhova/tdsb-calendar)
   - analyzing [whether a vendor of extracurricular activities offers them equally across TDSB schools](https://github.com/olga-terekhova/data-analysis/tree/main/vendor-extracurriculars-choice)
-  - creating [utilities to manipulate PDF files](https://github.com/olga-terekhova/pdf-utilities)
+  - creating utilities to [manipulate PDF files](https://github.com/olga-terekhova/pdf-utilities) or to [make conversions between video, audio, and text media](https://github.com/olga-terekhova/info-media-tools)
   - rendering [slides into web pages](https://github.com/olga-terekhova/ppt-render-html)    
 
