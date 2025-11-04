@@ -21,7 +21,8 @@ In ♥️ with all things data
 
 ⚒️ SQL and Python for work and for life 🍴
 
-- I live in 🍁. Recently got my Canadian citizenship. I got bored of checking the citizenship application tracker every day! I scripted this mundane activity at https://github.com/olga-terekhova/check-citizenship.
+- I live in 🍁. When I was waiting to get my Canadian citizenship, I got bored of checking the citizenship application tracker every day, so I scripted this mundane activity at https://github.com/olga-terekhova/check-citizenship.
+    - When I decided to rewrite a similar utility using playwright on python, I had to figure out to [containerize AWS Lambda functions](https://github.com/olga-terekhova/lambda-python-playwright-chromium) and [run them locally](https://github.com/olga-terekhova/lambda-local-run).  
 
 - My city is Toronto 🏙️. One of the advantages of living here is having a lot of physicians and specialist doctors. See for yourself at https://github.com/olga-terekhova/physicians-availability. 
 
