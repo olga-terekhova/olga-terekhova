@@ -19,7 +19,11 @@ In love with all things data.
 
 [Background experience](https://www.linkedin.com/in/olga-terekhova/) in data engineering, business analysis and project management.
 
-SQL and Python for work and for life.
+SQL and Python for work and for life.  
+
+- I love using Google Colab to work with data.  
+  - I wanted to streamline version controlling of projects containing Colab notebooks and created [git-gdrive-sync](https://github.com/olga-terekhova/git-gdrive-sync) as proof of concept.
+  - This evolved into the project [repo-utils](https://github.com/olga-terekhova/repo-utils), which attaches to other local git repositories and helps automating operations over them.  
 
 - I live in Canada. When I was waiting to get my Canadian citizenship, I got bored of checking the citizenship application tracker every day, so I scripted this mundane activity at https://github.com/olga-terekhova/check-citizenship.
     - When I decided to rewrite a similar utility using playwright on python, I had to figure out how to [containerize AWS Lambda functions](https://github.com/olga-terekhova/lambda-python-playwright-chromium) and [run them locally](https://github.com/olga-terekhova/lambda-local-run).  
