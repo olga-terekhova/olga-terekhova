@@ -38,5 +38,8 @@ SQL and Python for work and for life.
   - analyzing [whether a vendor of extracurricular activities offers them equally across TDSB schools](https://github.com/olga-terekhova/data-analysis/tree/main/vendor-extracurriculars-choice)
   - creating utilities to [manipulate PDF files](https://github.com/olga-terekhova/pdf-utilities) or to [make conversions between video, audio, and text media](https://github.com/olga-terekhova/info-media-tools)
   - rendering [slides into web pages](https://github.com/olga-terekhova/ppt-render-html)
+  - automating [assigning summer weeks to camps](https://github.com/olga-terekhova/camp-scheduler)
   - analyzing [weather to choose a summer destination](https://github.com/olga-terekhova/country-weather)  
 
+- My recent LLM-assited repositories are [camp-scheduler](https://github.com/olga-terekhova/camp-scheduler) and [country-weather](https://github.com/olga-terekhova/country-weather).
+  - I'm using Claude Code in a [devcontainer which I can use to open any project directory](https://github.com/olga-terekhova/dev-sandbox)
