@@ -23,10 +23,11 @@ SQL and Python for work and for life.
 
 - I love using Google Colab to work with data.  
   - I wanted to streamline version controlling of projects containing Colab notebooks and created [git-gdrive-sync](https://github.com/olga-terekhova/git-gdrive-sync) as proof of concept.
-  - This evolved into the project [repo-utils](https://github.com/olga-terekhova/repo-utils), which attaches to other local git repositories and helps automating operations over them.  
+  - This evolved into the project [repo-utils](https://github.com/olga-terekhova/repo-utils), which attaches to other local git repositories and helps automating operations over them.
 
 - I live in Canada. When I was waiting to get my Canadian citizenship, I got bored of checking the citizenship application tracker every day, so I scripted this mundane activity at https://github.com/olga-terekhova/check-citizenship.
-    - When I decided to rewrite a similar utility using playwright on python, I had to figure out how to [containerize AWS Lambda functions](https://github.com/olga-terekhova/lambda-python-playwright-chromium) and [run them locally](https://github.com/olga-terekhova/lambda-local-run).  
+    - When I decided to rewrite a similar utility using playwright on python, I had to figure out how to [containerize AWS Lambda functions](https://github.com/olga-terekhova/lambda-python-playwright-chromium) and [run them locally](https://github.com/olga-terekhova/lambda-local-run).
+    - To keep connected to people who live in a different country, I made [proxy-resolver](https://github.com/olga-terekhova/proxy-resolver).
 
 - My city is Toronto. One of the advantages of living here is having a lot of physicians and specialist doctors. See for yourself at https://github.com/olga-terekhova/physicians-availability. 
 
@@ -41,5 +42,5 @@ SQL and Python for work and for life.
   - automating [assigning summer weeks to camps](https://github.com/olga-terekhova/camp-scheduler)
   - analyzing [weather to choose a summer destination](https://github.com/olga-terekhova/country-weather)  
 
-- My recent LLM-assited repositories are [camp-scheduler](https://github.com/olga-terekhova/camp-scheduler) and [country-weather](https://github.com/olga-terekhova/country-weather).
-  - I'm using Claude Code in a [devcontainer which I can use to open any project directory](https://github.com/olga-terekhova/dev-sandbox)
+- My recent LLM-assited repositories are [camp-scheduler](https://github.com/olga-terekhova/camp-scheduler), [country-weather](https://github.com/olga-terekhova/country-weather), and [proxy-resolver](https://github.com/olga-terekhova/proxy-resolver) .
+  - I'm using Claude Code in a [devcontainer which I can use to open any project directory](https://github.com/olga-terekhova/dev-sandbox) , maximizing safety even when working on personal projects. 
