@@ -27,7 +27,7 @@ SQL and Python for work and for life.
 
 - I live in Canada. When I was waiting to get my Canadian citizenship, I got bored of checking the citizenship application tracker every day, so I scripted this mundane activity at https://github.com/olga-terekhova/check-citizenship.
     - When I decided to rewrite a similar utility using playwright on python, I had to figure out how to [containerize AWS Lambda functions](https://github.com/olga-terekhova/lambda-python-playwright-chromium) and [run them locally](https://github.com/olga-terekhova/lambda-local-run).
-    - To keep connected to people who live in a different country, I made [proxy-resolver](https://github.com/olga-terekhova/proxy-resolver).
+    - To keep connected to people who live in a different country, I made [proxy-resolver](https://github.com/olga-terekhova/proxy-resolver-public).
 
 - My city is Toronto. One of the advantages of living here is having a lot of physicians and specialist doctors. See for yourself at https://github.com/olga-terekhova/physicians-availability. 
 
@@ -42,5 +42,5 @@ SQL and Python for work and for life.
   - automating [assigning summer weeks to camps](https://github.com/olga-terekhova/camp-scheduler)
   - analyzing [weather to choose a summer destination](https://github.com/olga-terekhova/country-weather)  
 
-- My recent LLM-assited repositories are [camp-scheduler](https://github.com/olga-terekhova/camp-scheduler), [country-weather](https://github.com/olga-terekhova/country-weather), and [proxy-resolver](https://github.com/olga-terekhova/proxy-resolver) .
+- My recent LLM-assited repositories are [camp-scheduler](https://github.com/olga-terekhova/camp-scheduler), [country-weather](https://github.com/olga-terekhova/country-weather), and [proxy-resolver](https://github.com/olga-terekhova/proxy-resolver-public) .
   - I'm using Claude Code in a [devcontainer which I can use to open any project directory](https://github.com/olga-terekhova/dev-sandbox) , maximizing safety even when working on personal projects. 
